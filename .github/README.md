@@ -12,4 +12,4 @@ Projeto constuido no evento Next Level Week da RocketSeat
 - GIT e Github
 
 ## 💜 contato
-alinechaves@9845@gmail.com
+alinechaves9845@gmail.com
